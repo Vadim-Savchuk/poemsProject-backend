@@ -1,1 +1,1 @@
-🗽 Силочка на весь проект https://github.com/Vadim-Savchuk/poemProject
+🗽 Силочка на весь проект https://github.com/Vadim-Savchuk/poemsProject-frontend
